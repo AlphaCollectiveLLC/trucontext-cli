@@ -168,6 +168,8 @@ Observe → Capture → Sleep → Wake → Query → Observe → ...
 | `relationship-types` | List all relationship types |
 | `schema show` | Show current app schema |
 | `schema generate` | AI-generate a schema from description |
+| `docs` | List all API documentation sections |
+| `docs show <slug>` | View a specific doc section (no auth required) |
 
 ## API
 
